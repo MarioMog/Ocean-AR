@@ -6,6 +6,9 @@ Especies en peligro de extinción.
 ## Solución
 Mostrar las especies en peligro de extinción  con el fin de concientizar a la población de una forma interactiva y divertida.
 
+## Nota
+La pagina fue diseñada mobile first se recomienda su apertura en dispositivo móvil.
+
 ## Links de despliegue
 | Software | Función | Link | Repositorio |
 | ------------- | ------------- | ------------- | ------------- |
@@ -28,3 +31,5 @@ sequenceDiagram
     FRONT->>USER: Muestra la información recibida
 ```
 
+## Demo
+![OceanAR_prueba_funcionamiento.gif](https://github.com/MarioMog/Ocean-AR/blob/main/imgs/OceanAR_prueba_funcionamiento.gif)
