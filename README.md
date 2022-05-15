@@ -9,8 +9,8 @@ Mostrar las especies en peligro de extinción  con el fin de concientizar a la p
 ## Links de despliegue
 | Software | Función | Link | Repositorio |
 | ------------- | ------------- | ------------- | ------------- |
-| OceanAR-Frontend | Está es la aplicación con la que interactuaran los usuarios | NA | ![Backend](https://github.com/armap99/Ocean-AR-Backend) |
-| Ocean-AR-Backend | Es la API en la cual se realizarán las peticiones desde la aplicación del usuario | NA | ![Frontend](https://github.com/moiseshernandez26/OceanAR-Frontend) |
+| OceanAR-Frontend | Está es la aplicación con la que interactuaran los usuarios | NA | [Backend](https://github.com/armap99/Ocean-AR-Backend) |
+| Ocean-AR-Backend | Es la API en la cual se realizarán las peticiones desde la aplicación del usuario | NA | [Frontend](https://github.com/moiseshernandez26/OceanAR-Frontend) |
 
 ## Documentación
 ```mermaid
