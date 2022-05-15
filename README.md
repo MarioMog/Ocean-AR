@@ -1,5 +1,11 @@
 # Ocean-AR
 
+## Problematica
+Especies en peligro de extinción.
+
+## Solución
+Mostrar las especies en peligro de extinciónm con el fin de concientizar a la población de una forma interactiva y divertida.
+
 ## Links de despliegue
 | Software | Función | Link | Repositorio |
 | ------------- | ------------- | ------------- | ------------- |
@@ -21,3 +27,4 @@ sequenceDiagram
     API->>FRONT: Entrega una respuesta para la pretición realizada
     FRONT->>USER: Muestra la información recibida
 ```
+
