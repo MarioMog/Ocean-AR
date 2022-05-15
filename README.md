@@ -1,10 +1,10 @@
 # Ocean-AR
 
-## Problematica
+## Problemática
 Especies en peligro de extinción.
 
 ## Solución
-Mostrar las especies en peligro de extinciónm con el fin de concientizar a la población de una forma interactiva y divertida.
+Mostrar las especies en peligro de extinción  con el fin de concientizar a la población de una forma interactiva y divertida.
 
 ## Links de despliegue
 | Software | Función | Link | Repositorio |
@@ -15,15 +15,15 @@ Mostrar las especies en peligro de extinciónm con el fin de concientizar a la p
 ## Documentación
 ```mermaid
 sequenceDiagram
-    participant USER
-    participant FRONT
+    participant USER as Usuario
+    participant FRONT as Aplicación web
     participant API
     participant BD
     USER->>FRONT: Interactua con la aplicación
     FRONT->>API: Realiza la petición a la base de datos
     API->>BD: Hace la consulta  deseada
     BD->>API: Retorna el registro
-    API->>API: Realiza la logica correspondiente en el controlador
+    API->>API: Realiza la lógica correspondiente en el controlador
     API->>FRONT: Entrega una respuesta para la pretición realizada
     FRONT->>USER: Muestra la información recibida
 ```
