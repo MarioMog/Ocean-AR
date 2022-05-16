@@ -12,8 +12,8 @@ La pagina fue diseñada mobile first se recomienda su apertura en dispositivo m�
 ## Links de despliegue
 | Software | Función | Link | Repositorio |
 | ------------- | ------------- | ------------- | ------------- |
-| OceanAR-Frontend | Está es la aplicación con la que interactuaran los usuarios | NA | [Backend](https://github.com/armap99/Ocean-AR-Backend) |
-| Ocean-AR-Backend | Es la API en la cual se realizarán las peticiones desde la aplicación del usuario | [Link](https://moiseshernandez26.github.io/OceanAR-Frontend/) | [Frontend](https://github.com/moiseshernandez26/OceanAR-Frontend) |
+| OceanAR-Frontend | Está es la aplicación con la que interactuaran los usuarios | [Link](https://moiseshernandez26.github.io/OceanAR-Frontend/) | [Frontend](https://github.com/moiseshernandez26/OceanAR-Frontend) |
+| Ocean-AR-Backend | Es la API en la cual se realizarán las peticiones desde la aplicación del usuario | NA | [Backend](https://github.com/armap99/Ocean-AR-Backend) |
 
 ## Documentación
 ```mermaid
